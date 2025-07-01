@@ -1,0 +1,11 @@
+version: v1alpha1
+metadata:
+  name: xe
+  version: "$VERSION"
+  author: Sidero Labs
+  description: |
+    This system extension provides Intel Xe GPU driver for discrete Intel Arc GPUs including Battlemage (B-series) graphics cards.
+    The xe driver is Intel's next-generation graphics driver that replaces i915 for newer Intel discrete GPUs.
+  compatibility:
+    talos:
+      version: ">= v1.8.0"

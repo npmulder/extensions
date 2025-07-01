@@ -25,6 +25,7 @@ spec:
     - hailort
     - hello-world-service
     - i915
+    - xe
     - intel-ice-firmware
     - intel-ucode
     - iscsi-tools
